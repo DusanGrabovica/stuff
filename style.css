@@ -1,0 +1,46 @@
+#brojevi{
+    width: 600px;
+    height: 100px;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    border: 1px solid black;
+    margin-left: 380px;
+    background-color: aqua;
+}
+
+#kontrola{
+    
+    width: 600px;
+    height: 500px;
+    color: black;
+    font-style: italic;
+    text-align: center;
+    border: 1px solid black;
+    margin-left: 380px;
+    margin-top: 10px;
+    background-color: yellow;
+    
+    
+}
+
+form{
+    border: 1px solid black;
+     width: 400px;
+    height: 100px;
+    margin-left: 100px;
+    
+    
+}
+
+#izvuci{
+    border: 1px solid black;
+     width: 400px;
+    height: 100px;
+    margin-left: 100px;
+    
+    
+}
+
+
+
